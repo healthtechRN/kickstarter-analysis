@@ -11,7 +11,7 @@ A separate columnn was created to extract the year from the "Date Created Conver
 ![Outcomes_vs_Goals](resources/Outcomes_vs_Goals.png)
 ### Analysis of Outcomes Based on Goals
 Several columns were created to show the percentage of successful, failed and canceled projects (plays) relative to their goal. The goal column was created to show the following dollar-amount ranges (less than 1000, 1000 to 4999, 5000 to 9999, 10000 to 14999, 15000 to 19999, 20000 to 24999, 25000 to 29999, 30000 to 34999, 35000 to 39999, 40000 to 44999, 45000 to 49999, and greater than 50000)
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/84240012/147897001-65b9f953-e7b8-40a9-a227-936fbb3d1686.png)
+![Theater_Outcomes_vs_Launch](resources/Theater_Outcomes_vs_Launch.png)
 ### Challenges and Difficulties Encountered
 Difficulties for Deliverable 1 included not getting the pivot table to look 
 ## Results
