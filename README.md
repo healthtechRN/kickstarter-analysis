@@ -8,10 +8,10 @@ The purpose of this analysis is to see how different campaigns fared in relation
 Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.
 ### Analysis of Outcomes Based on Launch Date
 A separate columnn was created to extract the year from the "Date Created Conversion" column, next a pivot table was created to show data for "theater". Finally, a line chart was created to visualize the relationship between outcomes and launch month.
-![Outcomes_vs_Goals](https://github.com/robertdavila/kickstarter-analysis-/blob/fd2b7060056333493f7a2cc05603c16b949c4f4f/resources/Outcomes_vs_Goals.png )
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/84240012/147896964-168234aa-da66-42ed-8591-619f59d7b9f7.png)
 ### Analysis of Outcomes Based on Goals
 Several columns were created to show the percentage of successful, failed and canceled projects (plays) relative to their goal. The goal column was created to show the following dollar-amount ranges (less than 1000, 1000 to 4999, 5000 to 9999, 10000 to 14999, 15000 to 19999, 20000 to 24999, 25000 to 29999, 30000 to 34999, 35000 to 39999, 40000 to 44999, 45000 to 49999, and greater than 50000)
-![Theater_Outcomes_vs_Launch](https://github.com/robertdavila/kickstarter-analysis-/blob/fd2b7060056333493f7a2cc05603c16b949c4f4f/resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/84240012/147897001-65b9f953-e7b8-40a9-a227-936fbb3d1686.png)
 ### Challenges and Difficulties Encountered
 Difficulties for Deliverable 1 included not getting the pivot table to look 
 ## Results
