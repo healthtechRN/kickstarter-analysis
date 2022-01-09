@@ -30,5 +30,4 @@ Difficulties for Theater Outcomes vs Launch included several attempts to arrange
   - Data ranges from 2010 - 2017, analyzed in 2022. Theater data is more than 5 years old. Significant differences may exist with worldwide pandemic (2020 - 2022) that can influence data.
 - What are some other possible tables and/or graphs that we could create?
   - Play outcomes based on Launch date
-  - Play outcomes based on 
-
+  - Theater outcomes based on Launch date (sorted by Year, not month). 
